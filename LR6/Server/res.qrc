@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Settings.ini</file>
+        <file>structure.txt</file>
+    </qresource>
+</RCC>
